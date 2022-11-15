@@ -1,0 +1,1 @@
+# NewsCatcher-News-API-Test
